@@ -37,7 +37,7 @@ ___
 - Who participates in testing
 ___
 #### Mobile-Testing 📱
-##### 🔗 [📝 Check-list ](https://docs.google.com/spreadsheets/d/1fuLL0bSw3UNp9unHDV4ZZ5rk44DNXIhS9kMivpjI-hA/edit?usp=sharing) 
+##### 🔗 [📝 Check-list ](https://docs.google.com/spreadsheets/d/1yhB8HksJ7R_jeRW0aecpZder9etwEuQv/edit?usp=sharing&ouid=104885401957688092610&rtpof=true&sd=true) 
 
 #### Web-Testing 👨🏻‍💻
 ##### 🔗 [📝 Check-list ](https://docs.google.com/spreadsheets/d/12JLBlhNU3BR946wd-KP95WfwfU5OKFaEwNzPKALr4tY/edit?usp=sharing) 
